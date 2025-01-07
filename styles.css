@@ -1,9 +1,12 @@
 /*  your css code here. If applicable */
 
-.artical img{
-	height: 200px;
-}
 marquee{
 	align-items: center;
 	display: inline-block;
+}
+img{
+	height: 200px;
+}
+.img{
+	height: 200px;
 }
