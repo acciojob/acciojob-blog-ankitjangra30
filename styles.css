@@ -5,4 +5,5 @@ img{
 }
 marquee{
 	align-items: center;
+	display: inline-block;
 }
